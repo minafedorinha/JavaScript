@@ -1,0 +1,32 @@
+body {
+    font-family: monospace;
+    color: rgb(173, 204, 0);
+
+    
+}
+ul {
+    font-family: helvetica;
+}
+.lista {
+    
+    color: #770000;
+}
+#msg {
+    color: brown;
+}
+.light-theme {
+
+    color: #000000;
+    
+    background: #00FF00;
+    
+    }
+.dark-theme {
+    color: #1bee07;
+    background-color: #000000;
+}
+.btn {
+    color: rgb(34, 2, 41);
+    background-color: #1bee07;
+    border-radius: 25%;
+}
